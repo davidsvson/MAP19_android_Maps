@@ -1,0 +1,2 @@
+rootProject.name='Map19_maps'
+include ':app'
